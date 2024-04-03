@@ -5,6 +5,7 @@ OVERVIEW
 YouTube is a rich source of data, including information about channels, videos, views, likes, comments, and more. This project aims to harvest data from YouTube channels, store it in a MySQL database, and provide an interactive interface for querying and visualizing the data using STREAMLIT web application.
 
 COMPONENTS
+
 YouTube Data Retrieval: Utilizes the YouTube Data API to fetch channel and video details such as titles, views, likes, comments, and other relevant metrics.
 
 MySQL Database: Stores the harvested YouTube data in a relational database management system (MySQL). Separate tables are used to store information about channels details and video details.
