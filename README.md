@@ -36,7 +36,7 @@ database = '******'
 
 Python Libraries: Install the Python libraries like pandas , googleapiclient, streamlit, pymysql using pip:
 Pip install pandas
-Pip install googleapiclient.discovery
+Pip install google-api-python-client
 Pip install streamlit
 Pip install pymysql
 
